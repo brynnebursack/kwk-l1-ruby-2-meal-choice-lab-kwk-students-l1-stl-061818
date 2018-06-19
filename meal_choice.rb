@@ -4,6 +4,8 @@ end
 
 meal_choice
 
+def meal_choice(breakfast,lunch,dinner)
+  
 
 
 
