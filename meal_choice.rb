@@ -5,7 +5,8 @@ end
 meal_choice
 
 def meal_choice(breakfast,lunch,dinner)
-  
+  puts "Morning is the best time for #{breakfast}!"
+  puts ""
 
 
 
