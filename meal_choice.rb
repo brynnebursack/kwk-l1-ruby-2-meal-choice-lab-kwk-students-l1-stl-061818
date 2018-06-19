@@ -6,7 +6,8 @@ meal_choice
 
 def meal_choice(breakfast,lunch,dinner)
   puts "Morning is the best time for #{breakfast}!"
-  puts ""
+  puts "Lunch time is a good time to eat #{lunch}."
+  puts
 
 
 
@@ -15,7 +16,7 @@ def meal_choice(breakfast,lunch,dinner)
 def meal_choice(breakfast="frosted flakes",lunch="grilled cheese",dinner="salmon")
   puts "Morning is the best time for #{breakfast}!"
 
-  puts "Lunch time is a good to eat #{lunch}."
+  puts "Lunch time is a good time to eat #{lunch}."
 
   puts "At dinner time, we eat #{dinner}."
 
